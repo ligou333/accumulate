@@ -1,0 +1,5 @@
+﻿  widget.cpp
+E:\A_Demo\QtObject\2022_12_30TestMouseEvent\widget.cpp(48,42): warning C4100: “event”: 未引用的形参
+E:\A_Demo\QtObject\2022_12_30TestMouseEvent\widget.cpp(59,33): warning C4100: “event”: 未引用的形参
+E:\A_Demo\QtObject\2022_12_30TestMouseEvent\widget.cpp(64,33): warning C4100: “event”: 未引用的形参
+  TestMouseEvent.vcxproj -> E:\A_Demo\QtObject\2022_12_30TestMouseEvent\debug\TestMouseEvent.exe

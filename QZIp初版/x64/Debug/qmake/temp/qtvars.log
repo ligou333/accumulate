@@ -1,0 +1,8 @@
+Info: creating stash file C:\Users\??529\AppData\Local\Temp\iby4ry3i.fvk\.qmake.stash
+Project MESSAGE: This project is using private headers and will therefore be tied to this specific Qt module build version.
+Project MESSAGE: Running this project against other versions of the Qt modules may crash at any arbitrary point.
+Project MESSAGE: This is not a bug, but a result of using Qt internals. You have been warned!
+WARNING: Could not parse Compiler option '-Zc:rvalueCast'; added to AdditionalOptions.
+WARNING: You can suppress these warnings with CONFIG+=suppress_vcproj_warnings.
+WARNING: Could not parse Compiler option '-Zc:inline'; added to AdditionalOptions.
+WARNING: Could not parse Compiler option '-Zc:referenceBinding'; added to AdditionalOptions.
