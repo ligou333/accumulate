@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EventFilterStudy", "EventFilterStudy.vcxproj", "{11B9C309-4F27-4001-8A28-8A5BF949DE55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11B9C309-4F27-4001-8A28-8A5BF949DE55}.Debug|x64.ActiveCfg = Debug|x64
+		{11B9C309-4F27-4001-8A28-8A5BF949DE55}.Debug|x64.Build.0 = Debug|x64
+		{11B9C309-4F27-4001-8A28-8A5BF949DE55}.Release|x64.ActiveCfg = Release|x64
+		{11B9C309-4F27-4001-8A28-8A5BF949DE55}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE3B9812-BABB-44A3-8751-B3F385BF3D44}
+	EndGlobalSection
+EndGlobal
